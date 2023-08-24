@@ -5,3 +5,9 @@
 2、change_word_tables_cotents.py脚本可以批量修改word文件中的表格里固定位置的内容。
 
 3、modify_word_tables_fonts.py脚本可以批量修改word文件中的表格里的字体，如修改字体、加粗、调整大小等。
+
+# 下一步计划
+
+1、将功能继续细化。
+2、尝试界面化。
+3、整合各功能一体化。
